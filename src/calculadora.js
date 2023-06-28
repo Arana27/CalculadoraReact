@@ -25,7 +25,7 @@ const Calculadora = () => {
 
       return (
         <View style={styles.container}>
-          <Text style={styles.textApp}>Calculadora-Fuentes</Text>
+          <Text style={styles.textApp}>Calculadora-brrr</Text>
           <View style={styles.resultContainer}>
             <Text style={styles.resultText}>{resultado}</Text>
           </View>
@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#000080',
+      backgroundColor: '#bfff00',
     },
     textApp: {
       fontSize: 24,
